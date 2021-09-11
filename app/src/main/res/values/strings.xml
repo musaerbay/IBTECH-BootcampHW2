@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bootcamp week 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="word_test">Kelime Testi</string>
+    <string name="string_skip">Atla</string>
+    <string name="btn_Start"><![CDATA[Şimdi Başla  >]]></string>
+
+    <string name="string_about">Kelime Testi, Sizin dil seviyenizi ölçmek içindir. Test sonunda doğru ve yanlışlarınızı görebileceksiniz!</string>
+    <string name="correct_number">3/10</string>
+    <string name="eng_word">Visualize</string>
+    <string name="word1">Görselleştirmek</string>
+    <string name="word2">Altında</string>
+    <string name="word3">Bağış</string>
+    <string name="word4">Bağış</string>
+
+    <string name="formatted_time">%02d:%02d</string>
+
+
+</resources>
